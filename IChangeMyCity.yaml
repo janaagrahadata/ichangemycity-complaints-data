@@ -1,0 +1,18 @@
+Name: IChangeMyCity Complaints Data
+Description: |
+  This project provides insight into the complaints raised
+  by the citizens from diffent cities of India related to 
+  the issues in their neighbourhoods and the resolution
+  of the same by the civic bodies.
+Documentation: 
+Contact: data@janaagraha.org
+UpdateFrequency: Daily
+Tags:
+  - complaint, complaints
+License: There are no restrictions on the use of data received from IChangeMyCity.com. 
+More information on licensing and IChangeMyCity data citation is available from IChangeMyCity.com
+Resources:
+  - Description: IChangeMyCity Complaints
+    ARN: arn:aws:s3:::ichangemycity-janaagraha-complaints-data-aws
+    Region: ap-south-1
+    Type: S3 Bucket
